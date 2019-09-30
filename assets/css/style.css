@@ -1,0 +1,39 @@
+.box {
+	border-radius: 10px;
+	padding: 20px 10px;
+	background: #fff;
+	box-shadow: 0px 0px 2px 0px #000;
+}
+
+.box:hover {
+	box-shadow: 0px 0px 10px 0px #000;
+}
+
+.box-header {
+	text-align: center;
+	border-bottom: 1px solid #cacaca;
+}
+
+.floating-center {
+	position: absolute;
+	left: 50%;
+	width: 90%;
+	margin-left: -45%;
+	top: 10em;
+}
+
+@media (min-width: 768px) {
+	.floating-center {
+		width: 70%;
+		margin-left: -35%;
+		top: 10em;
+	}
+}
+
+@media (min-width: 992px) {
+	.floating-center {
+		width: 50%;
+		left: 50%;
+		margin-left: -25%;
+	}
+}
