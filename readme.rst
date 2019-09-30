@@ -1,4 +1,11 @@
 ###################
+Demo
+###################
+
+Kunjungi Link Berikut untuk melihat demo
+http://kuliah.belajaryuk.id/semester_3/tugas_1/
+
+###################
 What is CodeIgniter
 ###################
 
