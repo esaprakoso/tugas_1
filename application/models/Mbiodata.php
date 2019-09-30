@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-class Mbiodata extends CI_Controller {
+class Mbiodata extends CI_Model {
 	public function detail()
 	{
         // Buat data dummy seolah-olah mendapatkan data dari database
